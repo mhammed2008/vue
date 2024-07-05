@@ -1,0 +1,1 @@
+const e="Smiley",t=5,s=[{name:"sira",email:"1@jone.s",status:"Active"},{name:"jena",email:"2@jone.s",status:"Active"},{name:"John Doe",email:"3@jone.s",status:"Active"},{name:"max jone",email:"4@jone.s",status:"Active"}],a={name:e,spots:5,members:s};export{a as default,s as members,e as name,t as spots};
